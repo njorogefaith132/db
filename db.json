@@ -48,6 +48,68 @@
             "title": "Jazz on Columbus Circle Hostel",
             "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
         }
+    ],
+    "vehicles":[
+        {
+            "id":"795e3457-04a3-11ec-8628-4dc79b6eca27",
+            "name":"2014 Nissan Note 1.4",
+            "images":[
+                "https://vimg.cheki.co.ke/xl/1525002335_inventory1723349971_1629700332.jpg",
+                "https://vimg.cheki.co.ke/xl/1255986043_inventory912667460_1629700339.jpg",
+                "https://vimg.cheki.co.ke/m/1597120081_inventory2049668326_1629700331.jpg",
+                "https://vimg.cheki.co.ke/m/1169941219_inventory1123468186_1629700336.jpg"
+            ],
+            "location":"Nairobi",
+            "price":999000,
+            "year":2010,
+            "fuel":"petrol",
+            "color":"silver",
+            "milega":"45455",
+            "description":"Foreign Used 2010 Silver BMW 318i for sale in Nairobi. Contact us today. Features: Automatic, Saloons, Petrol, Airbags, Tinted Windows, Power Steering, Electric Windows, Air Conditioning, AM/FM Radio, Alloy Wheels",
+            "seller":"+2547894756543"
+
+        },
+        {
+            "id":"795e3458-04a3-11ec-8628-4dc79b6eca27",
+            "name":"2014 White Automatic Mazda CX-5",
+            "images":[
+                "https://vimg.cheki.co.ke/xl/1715918098_inventory1756989373_1626248366.jpg",
+                "https://vimg.cheki.co.ke/xl/1883831085_inventory860025067_1626248370.jpg",
+                "https://vimg.cheki.co.ke/xl/578180913_inventory1853847887_1626248355.jpg",
+                "https://vimg.cheki.co.ke/xl/703663711_inventory1312724112_1626248366.jpg",
+                "https://vimg.cheki.co.ke/xl/31150200_inventory2116865205_1626248355.jpg",
+                "https://vimg.cheki.co.ke/xl/1861430536_inventory2146315168_1626248370.jpg"
+            ],
+            "location":"Nairobi",
+            "price":2599999,
+            "year":2014,
+            "fuel":"petrol",
+            "color":"white",
+            "milega":"66000",
+            "description":"Mazda CX-5 PETROL 2014 Model Petrol engine White colour 2000cc 2wd Steering controls Genuine Mileage 66,000/ km's Alloy rims Fog lights Parking sensors HID/XENON lights Non accidented unit ",
+            "seller":"+25478324233"
+
+        },
+        {
+            "id":"795e3459-04a3-11ec-8628-4dc79b6eca27",
+            "name":"2014 Green Automatic Subaru Forester",
+            "images":[
+                "https://vimg.cheki.co.ke/xl/1500915151_inventory981698384_1629450605.jpg",
+                "https://vimg.cheki.co.ke/xl/362577565_inventory710520559_1629450553.jpg",
+                "https://vimg.cheki.co.ke/xl/677836821_inventory1021870584_1629450667.jpg",
+                "https://vimg.cheki.co.ke/xl/646513503_inventory1938286317_1629450585.jpg",
+                "https://vimg.cheki.co.ke/xl/889827196_inventory1609252091_1629450678.jpg",
+            ],
+            "location":"Nairobi",
+            "price":2300000,
+            "year":2014,
+            "fuel":"petrol",
+            "color":"green",
+            "milega":"105000",
+            "description":"Make... Subaru Model...forester sj5 Country of origin.. JAPAN Year of manufacture..2014 Transmission... Automatic Engine Cc...2000 non turbo Symmetrical all wheel drive Price...2.3m negotiable",
+            "seller":"+25578300033"
+
+        }
     ]
   }
 
