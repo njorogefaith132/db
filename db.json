@@ -51,7 +51,7 @@
     ],
     "vehicles":[
         {
-            "id":"795e3457-04a3-11ec-8628-4dc79b6eca27",
+            "id":"795e1ec8",
             "name":"2014 Nissan Note 1.4",
             "images":[
                 "https://vimg.cheki.co.ke/xl/1525002335_inventory1723349971_1629700332.jpg",
@@ -64,13 +64,18 @@
             "year":2010,
             "fuel":"petrol",
             "color":"silver",
-            "milega":"45455",
+            "make":"Nissan",
+            "model":"Note 1.4",
+            "mileage":"45455",
+            "transmission":"Manual",
+            "engine_size":"2500cc",
+            "interior_type":"Leather",
             "description":"Foreign Used 2010 Silver BMW 318i for sale in Nairobi. Contact us today. Features: Automatic, Saloons, Petrol, Airbags, Tinted Windows, Power Steering, Electric Windows, Air Conditioning, AM/FM Radio, Alloy Wheels",
             "seller":"+2547894756543"
 
         },
         {
-            "id":"795e3458-04a3-11ec-8628-4dc79b6eca27",
+            "id":"795e3458",
             "name":"2014 White Automatic Mazda CX-5",
             "images":[
                 "https://vimg.cheki.co.ke/xl/1715918098_inventory1756989373_1626248366.jpg",
@@ -85,13 +90,18 @@
             "year":2014,
             "fuel":"petrol",
             "color":"white",
-            "milega":"66000",
+            "make":"Mazda",
+            "model":"CX-5",
+            "mileage":"66000",
+            "transmission":"Automatic",
+            "engine_size":"2200cc",
+            "interior_type":"Leather",
             "description":"Mazda CX-5 PETROL 2014 Model Petrol engine White colour 2000cc 2wd Steering controls Genuine Mileage 66,000/ km's Alloy rims Fog lights Parking sensors HID/XENON lights Non accidented unit ",
             "seller":"+25478324233"
 
         },
         {
-            "id":"795e3459-04a3-11ec-8628-4dc79b6eca27",
+            "id":"795e34a3",
             "name":"2014 Green Automatic Subaru Forester",
             "images":[
                 "https://vimg.cheki.co.ke/xl/1500915151_inventory981698384_1629450605.jpg",
@@ -105,10 +115,63 @@
             "year":2014,
             "fuel":"petrol",
             "color":"green",
-            "milega":"105000",
+            "make":"Subaru",
+            "model":"Forester",
+            "mileage":"105000","transmission":"Automatic",
+            "engine_size":"2600cc",
+            "interior_type":"Leather",
             "description":"Make... Subaru Model...forester sj5 Country of origin.. JAPAN Year of manufacture..2014 Transmission... Automatic Engine Cc...2000 non turbo Symmetrical all wheel drive Price...2.3m negotiable",
             "seller":"+25578300033"
 
+        },
+        {
+            "id":"79b6eca27",
+            "name":"Toyota Land Cruiser Prado 2017",
+            "images":[
+                "https://motorhub.co.ke/files/601d167f21d1aIMG_5271.JPG",
+                "https://motorhub.co.ke/files/601d1698dbcafIMG_5265.JPG",
+                "https://motorhub.co.ke/files/601d169b3766dIMG_5269.JPG",
+                "https://motorhub.co.ke/files/601d169ca9839IMG_5273.JPG",
+                "https://motorhub.co.ke/files/601d16a290651IMG_5278.JPG"
+            ],
+            "location":"Nairobi",
+            "price":7800000,
+            "year":2017,
+            "fuel":"petrol",
+            "color":"brown",
+            "make":"Land Cruiser",
+            "model":"Prado",
+            "mileage":"37744",
+            "transmission":"Automatic",
+            "engine_size":"2300cc",
+            "interior_type":"Leather",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?",
+            "seller":"+25578300033"
+
+        },
+        {
+            "id":"745ec627",
+            "name":"2017 Toyota Hilux",
+            "images":[
+                "https://vimg.cheki.co.ke/m/1063323621_inventory321331373_1626893984.jpg",
+                "https://vimg.cheki.co.ke/m/44997785_inventory452988335_1626894021.jpg",
+                "https://vimg.cheki.co.ke/m/683652955_inventory1342885359_1626894037.jpg",
+                "https://vimg.cheki.co.ke/m/1561589260_inventory1576794109_1626893984.jpg",
+                "https://vimg.cheki.co.ke/m/1263887938_inventory544462841_1626894019.jpg"
+            ],
+            "location":"Nairobi",
+            "price":7800000,
+            "year":2017,
+            "fuel":"petrol",
+            "color":"red",
+            "make":"Toyota",
+            "model":"Hilux",
+            "mileage":"70",
+            "transmission":"Automatic",
+            "engine_size":"2500cc",
+            "interior_type":"Leather",
+            "description":"Toyota hilux 2017 very clean, leather seats, in very good condition",
+            "seller":"+25578300033"
         }
     ]
   }
