@@ -1,0 +1,54 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "rooms":[
+        {
+            "id":1,
+            "image":"https://raw.githubusercontent.com/john-smilga/setup-files-react-beach-resort/master/images/room-1.jpeg",
+            "rooms": 3,
+            "rating": 4,
+            "title": "Hotel Comfy Room",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
+        },
+        {
+            "id":2,
+            "image":"https://images.unsplash.com/photo-1595576508898-0ad5c879a061",
+            "rooms": 3,
+            "rating": 2,
+            "title": "Hotel Comfy Room",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
+        },
+        {
+            "id":3,
+            "image":"https://images.unsplash.com/photo-1616948007431-4f646fe8bb7d",
+            "rooms": 3,
+            "rating": 5,
+            "title": "Hotel With Fancy Room",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
+        },
+        {
+            "id":4,
+            "image":"https://images.unsplash.com/photo-1578683010236-d716f9a3f461",
+            "rooms": 3,
+            "rating": 4,
+            "title": "All In One Hotel",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
+        }
+        ,
+        {
+            "id":5,
+            "image":"https://cf.bstatic.com/xdata/images/hotel/square600/49872201.webp?k=3d7cec67f91ec2839ed1dc142a55ed799064cde4f130bc42af2cb78d967a7918&o=",
+            "rooms": 3,
+            "rating": 3,
+            "title": "Jazz on Columbus Circle Hostel",
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
+        }
+    ]
+  }
+
+  
