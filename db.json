@@ -6,172 +6,110 @@
       { "id": 1, "body": "some comment", "postId": 1 }
     ],
     "profile": { "name": "typicode" },
-    "rooms":[
+    "cars":[
         {
-            "id":1,
-            "image":"https://raw.githubusercontent.com/john-smilga/setup-files-react-beach-resort/master/images/room-1.jpeg",
-            "rooms": 3,
-            "rating": 4,
-            "title": "Hotel Comfy Room",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
-        },
-        {
-            "id":2,
-            "image":"https://images.unsplash.com/photo-1595576508898-0ad5c879a061",
-            "rooms": 3,
-            "rating": 2,
-            "title": "Hotel Comfy Room",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
-        },
-        {
-            "id":3,
-            "image":"https://images.unsplash.com/photo-1616948007431-4f646fe8bb7d",
-            "rooms": 3,
-            "rating": 5,
-            "title": "Hotel With Fancy Room",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
-        },
-        {
-            "id":4,
-            "image":"https://images.unsplash.com/photo-1578683010236-d716f9a3f461",
-            "rooms": 3,
-            "rating": 4,
-            "title": "All In One Hotel",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
-        }
-        ,
-        {
-            "id":5,
-            "image":"https://cf.bstatic.com/xdata/images/hotel/square600/49872201.webp?k=3d7cec67f91ec2839ed1dc142a55ed799064cde4f130bc42af2cb78d967a7918&o=",
-            "rooms": 3,
-            "rating": 3,
-            "title": "Jazz on Columbus Circle Hostel",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?"
-        }
-    ],
-    "vehicles":[
-        {
-            "id":"795e1ec8",
-            "name":"2014 Nissan Note 1.4",
+            "id":"1",
+            "name":"2008 Toyota Passo",
             "images":[
-                "https://vimg.cheki.co.ke/xl/1525002335_inventory1723349971_1629700332.jpg",
-                "https://vimg.cheki.co.ke/xl/1255986043_inventory912667460_1629700339.jpg",
-                "https://vimg.cheki.co.ke/m/1597120081_inventory2049668326_1629700331.jpg",
-                "https://vimg.cheki.co.ke/m/1169941219_inventory1123468186_1629700336.jpg"
+                "https://autocj.co.jp/photo/R00019000/R00019100-01.jpg",
+                "https://autocj.co.jp/photo/R00019000/R00019100-02.jpg"
             ],
             "location":"Nairobi",
-            "price":999000,
+            "price":131600,
+            "year":2008,
+            "fuel":"petrol",
+            "color":"silver",
+            "make":"Toyota",
+            "model":"DBA-KGC10",
+            "mileage":"62,000",
+            "transmission":"Automatic"
+        },
+        {
+            "id":"2",
+            "name":"2007 TOYOTA FIELDER",
+            "images":[
+                "https://autocj.co.jp/photo/R00018000/R00018854-01.jpg",
+                "https://autocj.co.jp/photo/R00018000/R00018854-02.jpg"
+            ],
+            "location":"Nyeri",
+            "price":252000,
+            "year":2007,
+            "fuel":"petrol",
+            "color":"Red",
+            "make":"Toyota",
+            "model":"DBA-NZE141G",
+            "mileage":"103000",
+            "transmission":"Automatic"
+        },
+        {
+            "id":"3",
+            "name":"2010 AUDI A3",
+            "images":[
+                "https://autocj.co.jp/photo/R00017000/R00017678-01.jpg",
+                "https://autocj.co.jp/photo/R00017000/R00017678-02.jpg"
+            ],
+            "location":"Nairobi",
+            "price":241300,
             "year":2010,
+            "fuel":"petrol",
+            "color":"Navy",
+            "make":"Audi",
+            "model":"DBA-8PCAX",
+            "mileage":"110000",
+            "transmission":"Automatic"
+        },
+        {
+            "id":"4",
+            "name":"2014 TOYOTA LAND CRUISER PRADO",
+            "images":[
+                "https://autocj.co.jp/photo/R00014000/R00014798-01.jpg",
+                "https://autocj.co.jp/photo/R00014000/R00014798-02.jpg"
+            ],
+            "location":"Nairobi",
+            "price":3020900,
+            "year":2014,
+            "fuel":"petrol",
+            "color":"black",
+            "make":"Toyota",
+            "model":"CBA-TRJ150W",
+            "mileage":"48,000",
+            "transmission":"Automatic"
+        },
+        {
+            "id":"5",
+            "name":"2014 NISSAN NOTE",
+            "images":[
+                "https://autocj.co.jp/photo/R00015000/R00015852-01.jpg",
+                "https://autocj.co.jp/photo/R00015000/R00015852-02.jpg"
+            ],
+            "location":"Mombasa",
+            "price":409000,
+            "year":2014,
             "fuel":"petrol",
             "color":"silver",
             "make":"Nissan",
-            "model":"Note 1.4",
-            "mileage":"45455",
-            "transmission":"Manual",
-            "engine_size":"2500cc",
-            "interior_type":"Leather",
-            "description":"Foreign Used 2010 Silver BMW 318i for sale in Nairobi. Contact us today. Features: Automatic, Saloons, Petrol, Airbags, Tinted Windows, Power Steering, Electric Windows, Air Conditioning, AM/FM Radio, Alloy Wheels",
-            "seller":"+2547894756543"
-
+            "model":"DBA-E12",
+            "mileage":"95,000",
+            "transmission":"Automatic"
         },
         {
-            "id":"795e3458",
-            "name":"2014 White Automatic Mazda CX-5",
+            "id":"6",
+            "name":"2014 TOYOTA TOWNACE V",
             "images":[
-                "https://vimg.cheki.co.ke/xl/1715918098_inventory1756989373_1626248366.jpg",
-                "https://vimg.cheki.co.ke/xl/1883831085_inventory860025067_1626248370.jpg",
-                "https://vimg.cheki.co.ke/xl/578180913_inventory1853847887_1626248355.jpg",
-                "https://vimg.cheki.co.ke/xl/703663711_inventory1312724112_1626248366.jpg",
-                "https://vimg.cheki.co.ke/xl/31150200_inventory2116865205_1626248355.jpg",
-                "https://vimg.cheki.co.ke/xl/1861430536_inventory2146315168_1626248370.jpg"
-            ],
-            "location":"Mombasa",
-            "price":2599999,
-            "year":2014,
-            "fuel":"petrol",
-            "color":"white",
-            "make":"Mazda",
-            "model":"CX-5",
-            "mileage":"66000",
-            "transmission":"Automatic",
-            "engine_size":"2200cc",
-            "interior_type":"Leather",
-            "description":"Mazda CX-5 PETROL 2014 Model Petrol engine White colour 2000cc 2wd Steering controls Genuine Mileage 66,000/ km's Alloy rims Fog lights Parking sensors HID/XENON lights Non accidented unit ",
-            "seller":"+25478324233"
-
-        },
-        {
-            "id":"795e34a3",
-            "name":"2014 Green Automatic Subaru Forester",
-            "images":[
-                "https://vimg.cheki.co.ke/xl/1500915151_inventory981698384_1629450605.jpg",
-                "https://vimg.cheki.co.ke/xl/362577565_inventory710520559_1629450553.jpg",
-                "https://vimg.cheki.co.ke/xl/677836821_inventory1021870584_1629450667.jpg",
-                "https://vimg.cheki.co.ke/xl/646513503_inventory1938286317_1629450585.jpg",
-                "https://vimg.cheki.co.ke/xl/889827196_inventory1609252091_1629450678.jpg"
+                "https://autocj.co.jp/photo/R00015000/R00015454-01.jpg",
+                "https://autocj.co.jp/photo/R00015000/R00015454-02.jpg"
             ],
             "location":"Nairobi",
-            "price":2300000,
+            "price":409000,
             "year":2014,
             "fuel":"petrol",
-            "color":"green",
-            "make":"Subaru",
-            "model":"Forester",
-            "mileage":"105000","transmission":"Automatic",
-            "engine_size":"2600cc",
-            "interior_type":"Leather",
-            "description":"Make... Subaru Model...forester sj5 Country of origin.. JAPAN Year of manufacture..2014 Transmission... Automatic Engine Cc...2000 non turbo Symmetrical all wheel drive Price...2.3m negotiable",
-            "seller":"+25578300033"
-
-        },
-        {
-            "id":"79b6eca27",
-            "name":"Toyota Land Cruiser Prado 2017",
-            "images":[
-                "https://autorex.com/wp-content/uploads/2016/11/2017-Toyota-Land-Cruiser-Prado-Back.jpg",
-                "https://autorex.com/wp-content/uploads/2016/11/2017-Toyota-Land-Cruiser-Prado-Front.png",
-                "https://autorex.com/wp-content/uploads/2016/11/Toyota-Land-Cruiser-Prado-2017-Front.jpg",
-                "https://autorex.com/wp-content/uploads/2016/11/2017-Toyota-Land-Cruiser-Prado-Interior.jpg"
-            ],
-            "location":"Nakuru",
-            "price":7800000,
-            "year":2017,
-            "fuel":"petrol",
-            "color":"brown",
-            "make":"Land Cruiser",
-            "model":"Prado",
-            "mileage":"37744",
-            "transmission":"Automatic",
-            "engine_size":"2300cc",
-            "interior_type":"Leather",
-            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis nihil veritatis perferendis?",
-            "seller":"+25578300033"
-
-        },
-        {
-            "id":"745ec627",
-            "name":"2017 Toyota Hilux",
-            "images":[
-                "https://vimg.cheki.co.ke/m/1063323621_inventory321331373_1626893984.jpg",
-                "https://vimg.cheki.co.ke/m/44997785_inventory452988335_1626894021.jpg",
-                "https://vimg.cheki.co.ke/m/683652955_inventory1342885359_1626894037.jpg",
-                "https://vimg.cheki.co.ke/m/1561589260_inventory1576794109_1626893984.jpg",
-                "https://vimg.cheki.co.ke/m/1263887938_inventory544462841_1626894019.jpg"
-            ],
-            "location":"Mombasa",
-            "price":7800000,
-            "year":2017,
-            "fuel":"petrol",
-            "color":"red",
+            "color":"silver",
             "make":"Toyota",
-            "model":"Hilux",
-            "mileage":"70",
-            "transmission":"Automatic",
-            "engine_size":"2500cc",
-            "interior_type":"Leather",
-            "description":"Toyota hilux 2017 very clean, leather seats, in very good condition",
-            "seller":"+25578300033"
+            "model":"ABF-S402M",
+            "mileage":"106,000",
+            "transmission":"Automatic"
         }
+       
     ]
   }
 
